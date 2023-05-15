@@ -13,7 +13,7 @@ Currently, there is a lack of efficient methods to predict the likelihood of dev
 The unique asymptomatic phase of diabetes presents a significant challenge for early detection and intervention.
 
 
-## Our Approach
+## My Approach
 We used data mining classification techniques and machine learning models to predict the likelihood of developing diabetes.
 A dataset of 520 instances from Sylhet Diabetes Hospital in Sylhet, Bangladesh, collected via direct questionnaires, will serve as the basis for our model.
 Tools: Alteryx for data preparation and blending, Tableau for data visualization and exploration, and machine learning for predictive modelling and analysis.
