@@ -64,6 +64,12 @@ I utilized the Contingency Tables tool in Alteryx to conduct Chi-Square tests. T
 
 From the tests, all variables except for 'Itching', 'Delayed_healing', and 'Obesity' demonstrated significant relationships with the target variable.
 
+
+## Final Varaibles for modelling 
+<img width="1009" alt="Screenshot 2023-05-23 at 9 34 39 AM" src="https://github.com/juvi-coder/Diabetes_Early_Prediction/assets/100660932/b9d5b40e-3080-47b9-aa17-0a3f1547135f">
+
+
+
 ## Modeling Workflow
 <img width="1061" alt="Modeling Workflow" src="https://github.com/juvi-coder/Diabetes_Early_Prediction/assets/100660932/2375cb30-950f-4142-9727-cbf0123b3490">
 
