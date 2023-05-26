@@ -55,8 +55,8 @@ The browse tool here summarized and graphed all the variables.
 
 These refined steps provide a clear description of the data preparation process carried out in Alteryx.
 ## CHi Square
+<img width="335" alt="chi" src="https://github.com/juvi-coder/Diabetes_Early_Prediction/assets/100660932/ba43f52c-5712-4bec-8dd8-4b41278b1dc2">
 
-<img width="450" alt="Data Prep Workflow" src="https://github.com/juvi-coder/Diabetes_Early_Prediction/assets/100660932/aff9d470-8da8-4de3-8ad0-091e5472f576">
 
 
 
